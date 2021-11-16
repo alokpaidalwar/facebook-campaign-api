@@ -3,7 +3,7 @@ API to create campaigns in facebook
 
 ### Installation 
 1. Clone the project.
-2. 
+2. Run the command
 ```javascript
 npm install
 ```
